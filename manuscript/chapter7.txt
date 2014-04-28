@@ -1,0 +1,27 @@
+# Chapter 7
+
+Projects
+
+
+
+        Hello World
+
+        Door lock
+
+        Temperature monitor
+
+        Light monitor
+
+        Mechanical hit counter
+
+        Up/down lights
+
+        Bubbling utilization indicator
+
+        Analog gauge
+
+        Remote control robot
+
+        Big red button
+
+        If this then that indicator (like/follow lamp)

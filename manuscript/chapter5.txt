@@ -1,0 +1,88 @@
+# Chapter 5
+Using RESTduino
+
+Overview of REST
+
+
+
+                URIs
+
+
+
+                JSON
+
+
+
+                HTTP Methods
+
+
+
+                        GET
+
+
+
+                        POST
+
+
+
+                Notes on RESTduinos REST implementation/limitations
+
+
+
+        Writing pins
+
+
+
+                What pins to use
+
+
+
+                Method and response
+
+
+
+                Project: Hello World in detail
+
+
+
+        Reading pins
+
+
+
+                What pins to use
+
+
+
+                Method and response
+
+
+
+                Polling and limits
+
+
+
+                Project: Temperature monitor
+
+
+
+        Websockets
+
+
+
+                Overview of Websockets
+
+
+
+                RESTduinos websockets support
+
+
+
+                Connecting, reading and writing a websocket
+
+
+
+                RESTduino websocket limitations
+
+
+
+                Project: Light monitor

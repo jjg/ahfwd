@@ -1,0 +1,13 @@
+# Chapter 6
+
+Advanced RESTduino
+
+
+
+        Annotated RESTduino source code
+
+        Manual network configuration
+
+        Customizing on-board code
+
+        Supporting additional hardware (SPI, LCD, servos, etc.)

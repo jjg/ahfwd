@@ -1,0 +1,20 @@
+# Chapter 3
+
+Selecting an Arduino
+
+
+
+Ethernet shield
+
+
+
+Arduino IDE
+
+
+
+Getting RESTduino
+
+
+
+Installing the RESTduino firmware
+

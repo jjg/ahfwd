@@ -1,2 +1,30 @@
 # Chapter 1
-This, is the first song, on our new album.
+Who this book is for
+Programmers who work primarilly in web technologies (HTML, Javascript, CSS, Rails, PHP, Node.js, ASP.NET, Java, etc.) who want to interface their code with the physical world.  RESTduino was designed to let web developers experiment with Arduino using the tools, skills and techniques they already know, removing the learning curve associated with microcontroller programming.
+
+By exposing the Arduino hardware as a web server, and adopting REST conventions for interacting with the hardware, RESTduino provides an REST API-style interface that most web developers are already famliar with.  This removes the hurdle of learning the Arduinos programming language, development tools and interface technique and allows web developers to incorporate hardware interfaces into their designs using their existing tools and experience.
+
+Most programmers who start with RESTduino will eventually run into its limitations and desire to learn how to expand its functionality, or write their own Arduino firmware from scratch.  For those who need to go beyond RESTduinos built-in functionality, this book includes an Advanced RESTduino section that provides an introduction to working with the Arduino IDE, the Arduino programming language and a detailed description of the RESTduino firmware sourcecode.
+
+
+What youll need
+While its possible to write code that talk to RESTduino with nothing more than a text editor, its more fun if you can actually try things out yourself.  Heres what youll need for a complete testing environment:
+
+An Arduino
+An Arduino Ethernet interface (Ethernet Shield, or an Arduino with built-in ethernet)
+A hub with an Ethernet port for the Arduino
+An Arduino power supply (can simply be a USB cable)
+A computer with the following:
+        A network connection to the same network as the Arduino
+        A text editor
+        A web browser
+
+Additionally several of the projects in this book require additional hardware.  Details about the hardware needed as well as sources are provided in the Projects section of the book.
+
+
+Further reading
+
+
+
+Acknowledgements
+This book is dedicated to my wife and daughter who have inspired me to take time to teach and build the tools I wish I wish I would have had while I was learning.
